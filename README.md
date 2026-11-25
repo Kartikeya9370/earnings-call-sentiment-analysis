@@ -36,11 +36,9 @@ Based on the report and notebook outputs:
 ```text
 .
 ├── earnings_call_sentiment_analysis.ipynb   # Main notebook
-├── project_report.pdf                       # Project write-up
+├── description.pdf                       # Project write-up
 ├── README.md                               # Repository overview
 ├── requirements.txt                        # Python dependencies
-├── .gitignore                              # Ignore rules for notebooks, caches, models
-└── LICENSE                                 # MIT license
 ```
 
 ## Methodology Overview
@@ -170,6 +168,3 @@ Upload the notebook to Colab and run the cells. The notebook already includes pa
 - move data-loading URLs into a config file
 - add a `src/` folder for cleaner project organization
 
-## License
-
-This repository is released under the MIT License.
